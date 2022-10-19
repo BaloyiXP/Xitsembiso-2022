@@ -43,3 +43,15 @@ while(sum2!=0):
     sum2=sum2//10
 print("The new number after adding one  to each",r)
 
+#Implementation of the reverse function
+#def revnum(num):
+#    rev=0
+#    rem=0
+#    while num>0:
+#    rem=num%10
+#    rev=(rev*10)+rem
+#    num=num//10
+#    print ('The reverse number is',rev)
+#    num=int(input ('Enter any five-gigits number''\n'))
+#    revnum(num)
+
