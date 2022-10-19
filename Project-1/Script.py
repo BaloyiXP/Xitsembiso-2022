@@ -215,6 +215,7 @@ class Window:
 def main():
     root = tk.Tk()
     root.geometry('650x180+350+350')
+    root.configure(bg='purple')
     root.resizable(False, False)
     Window(root)
     root.mainloop()
